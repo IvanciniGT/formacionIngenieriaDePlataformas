@@ -452,7 +452,7 @@ Agile me lleva a eso.
 Devops me lleva a eso.
 
 
-Y ... PROBLEMON DE COJONES!
+Y ... PROBLEMON DE NARICES!
 
 Tengo 500 reinos de taifas.
 500 proyectos donde en cada uno se hacen las cosas de una forma diferente!

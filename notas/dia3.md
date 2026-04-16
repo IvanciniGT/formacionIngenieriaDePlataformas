@@ -442,3 +442,6 @@ Además, hay cosas adicionales que me venden mucho con Backstage:
 - Documentación de los proyectos: Queremos estandarizar la documentación de los proyectos... y que esté disponible en un mismo sitio: En el portal
   - Para eso me ofrece un módulo de documentación... pero claro... tengo que meter la documentación de cada proyecto en el formato que espera ese módulo (markdown... pero en una determinada estructura de carpetas... con un fichero de configuración con metadatos... etc...)
   > Es decir.. que luego hay que formar a la gente en el uso de aquello.
+
+
+  
